@@ -1,0 +1,20 @@
+body {
+  background-color: #2B6C17;
+  color: #552B70;
+}
+
+.rubrik {
+  font-size: 1.7em;
+  color: #032BA2;
+  text-align: center;
+}
+
+.inledning {
+  font-size: 1.2em;
+  text-align: left;
+}
+
+.bild {
+  display: block;
+  margin: auto;
+}
